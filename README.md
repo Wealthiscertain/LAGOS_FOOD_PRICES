@@ -9,5 +9,5 @@ We are going to answer questions like:
 -	What is the percentage of decrease in food prices on a month-on-month basis and year-on-year basis?
 -	Are food items more expensive in Lagos?
 
-This project was carried out using MySQL workbench and Microsoft Excel spreadsheet. The main language used in this project is SQL.
+This project was carried out using MySQL, Python, PowerBi and Microsoft Excel spreadsheet. The main language used in this project is SQL.
 
