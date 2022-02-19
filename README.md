@@ -48,4 +48,4 @@ We began this research by extracting the spreadsheet for Lagos state from the Se
 
 
 
-The extracted spreadsheet was converted to .csv from .xlxs, reprocessed and cleaned using Pandas library on Python
+The extracted spreadsheet was converted to .csv from .xlxs, reprocessed and cleaned using Python's Pandas library on Jupyter notebook
