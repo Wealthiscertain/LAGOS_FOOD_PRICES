@@ -17,6 +17,8 @@ Four different rice species are included in this data:
 4. Rice,imported high quality sold loose
 
 ![image](https://user-images.githubusercontent.com/98736158/154783711-aa484c6b-255a-421c-9c60-5942c4d9834c.png)
+[SELECTED FOOD (JAN_2017 - DEC 2021).xlsx](https://github.com/Wealthiscertain/LAGOS_FOOD_PRICES/files/8101351/SELECTED.FOOD.JAN_2017.-.DEC.2021.xlsx)
+
 
 
 
