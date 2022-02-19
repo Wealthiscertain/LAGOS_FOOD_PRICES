@@ -21,10 +21,10 @@ Four different rice species are included in this data:
 
 
 We are going to answer questions like: 
--	Which food items recorded higher prices on a month-on-month basis and year-on-year basis?
--	Which food items recorded lower prices on a month-on-month basis and year-on-year basis?
--	What is the percentage of increase in food prices on a month-on-month basis and year-on-year basis?
--	What is the percentage of decrease in food prices on a month-on-month basis and year-on-year basis?
+-	Which rice record a higher price on a month-on-month basis and year-on-year basis?
+-	Which rice record a lower price on a month-on-month basis and year-on-year basis?
+-	What is the percentage of increase in rice prices on a month-on-month basis and year-on-year basis?
+-	What is the percentage of decrease in rice prices on a month-on-month basis and year-on-year basis?
 -	Are food items more expensive in Lagos?
 
 
