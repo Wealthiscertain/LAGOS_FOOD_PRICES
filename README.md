@@ -31,4 +31,4 @@ This project was carried out using MySQL Workbench, Jupyter notebook, PowerBi an
 
 
 
-##STEP 1
+#STEP 1
