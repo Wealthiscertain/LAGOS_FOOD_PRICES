@@ -31,4 +31,14 @@ This project was carried out using MySQL Workbench, Jupyter notebook, PowerBi an
 
 
 
-# STEP 1
+# STEP 1 - CLEANING AND PREPROCESSING THE DATA
+
+
+
+N.B All the data used in this research is included in the dataset file.
+
+
+
+We began this research by extracting the Data for Lagos state alone from the Selected food prices data (December 2021) gotten from the National Bureau of Statistics.
+
+
