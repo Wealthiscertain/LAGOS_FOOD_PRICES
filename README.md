@@ -4,7 +4,8 @@ Of the 36 states in Nigeria today, Lagos is considered to be one of the most exp
 
 
 Food is any nutritious substance that people eat or drink to maintain life and growth. Food is essential to our everyday life, The high cost of living in Lagos has led to an increase in the prices of food. 
-We will be analyzing the Selected food prices data (December 2021) gotten from the National Bureau of Statistics (https://nigerianstat.gov.ng/elibrary/read/1241108) to understand the changes in prices of rice on a month-on-month basis and year-on-year.  
+We will be analyzing the Selected food prices data (December 2021) gotten from the National Bureau of Statistics (https://nigerianstat.gov.ng/elibrary/read/1241108) to understand the changes in prices of rice on a month-on-month basis and year-on-year. 
+This data includes selected food prices from January 2017 to December 2021.
 Our focus on this research will be rice because rice is easily the most sought after food in Lagos and Nigeria in general.
 
 
@@ -35,12 +36,16 @@ This project was carried out using MySQL Workbench, Jupyter notebook, PowerBi an
 
 
 
-N.B All the data used in this research is included in the dataset file.
+N.B All the data used in this research are included in the dataset file.
 
 
 
-We began this research by extracting the Data for Lagos state alone from the Selected food prices data (December 2021) gotten from the National Bureau of Statistics.
+We began this research by extracting the spreadsheet for Lagos state from the Selected food prices data (December 2021) gotten from the National Bureau of Statistics.
 
 
 
-[lagos_food_prices.csv](https://github.com/Wealthiscertain/LAGOS_FOOD_PRICES/files/8101368/lagos_food_prices.csv)
+![image](https://user-images.githubusercontent.com/98736158/154784262-fff2f5ea-1919-4002-82c5-668b9b730ab8.png)
+
+
+
+lag.ipynb
