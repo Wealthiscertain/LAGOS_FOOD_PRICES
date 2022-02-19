@@ -17,17 +17,13 @@ Four different rice species are included in this data:
 4. Rice,imported high quality sold loose
 
 ![image](https://user-images.githubusercontent.com/98736158/154783711-aa484c6b-255a-421c-9c60-5942c4d9834c.png)
-[SELECTED FOOD (JAN_2017 - DEC 2021).xlsx](https://github.com/Wealthiscertain/LAGOS_FOOD_PRICES/files/8101351/SELECTED.FOOD.JAN_2017.-.DEC.2021.xlsx)
 
 
 
-
-We are going to answer questions like: 
--	Which rice record a higher price on a month-on-month basis and year-on-year basis?
--	Which rice record a lower price on a month-on-month basis and year-on-year basis?
--	What is the percentage of increase in rice prices on a month-on-month basis and year-on-year basis?
--	What is the percentage of decrease in rice prices on a month-on-month basis and year-on-year basis?
--	Are food items more expensive in Lagos?
+In this study, we are going to answer questions like: 
+1. Did rice record a higher or lower price on a month-on-month basis and year-on-year basis?
+2. What is the percentage of increase and decrease in rice prices on a month-on-month basis and year-on-year basis?
+3. Is rice more expensive in Lagos?
 
 
 
