@@ -16,8 +16,7 @@ Four different rice species are included in this data:
 3. Rice Medium Grained
 4. Rice,imported high quality sold loose
 
-![image](https://user-images.githubusercontent.com/98736158/154783635-4737c10f-6b8a-40f7-8bd6-8c8aaef7f6f8.png)
-
+![image](https://user-images.githubusercontent.com/98736158/154783711-aa484c6b-255a-421c-9c60-5942c4d9834c.png)
 
 
 
