@@ -32,7 +32,7 @@ This project was carried out using MySQL Workbench, Jupyter notebook, PowerBi an
 
 
 
-# STEP 1 - CLEANING AND PREPROCESSING THE DATA
+# MODULE 1 - CLEANING AND PREPROCESSING THE DATA
 
 
 
@@ -49,3 +49,6 @@ We began this research by extracting the spreadsheet for Lagos state from the Se
 
 
 The extracted spreadsheet was converted to .csv from .xlxs, reprocessed and cleaned using Python's Pandas library on Jupyter notebook
+
+
+# MODULE 2 - STORING THE DATA
