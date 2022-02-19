@@ -29,3 +29,6 @@ In this study, we are going to answer questions like:
 
 This project was carried out using MySQL Workbench, Jupyter notebook, PowerBi and Microsoft Excel spreadsheet. The main languages used in this project are SQL and Python.
 
+
+
+##STEP 1
