@@ -28,6 +28,9 @@ In this study, we are going to answer questions like:
 This project was carried out using MySQL Workbench, Jupyter notebook, PowerBi and Microsoft Excel spreadsheet. The main languages used in this project are SQL and Python.
 
 
+All files used in this project have been attached in the required format.
+
+
 # MODULE 1 - CLEANING AND PREPROCESSING THE DATA
 N.B All the data used in this research are included in the dataset file.
 
@@ -35,24 +38,117 @@ N.B All the data used in this research are included in the dataset file.
 We began this research by extracting the spreadsheet for Lagos state from the Selected food prices data (December 2021) gotten from the National Bureau of Statistics.
 
 
-
 ![image](https://user-images.githubusercontent.com/98736158/154784262-fff2f5ea-1919-4002-82c5-668b9b730ab8.png)
-
 
 
 The extracted spreadsheet was converted to .csv from .xlxs, reprocessed and cleaned using Python's Pandas library on Jupyter notebook
 
 
+**DATA CLEANING PROCESS:**
+1. **Importing the required libraries**: pandas library was used.
+
+
+2. **Importing the dataset**: .read_csv() function was used to import the .csv file
+
+
+3. **Outlining the required columns:** In this analysis, We will only be making use of the id, ItemLabels, 20-Dec, 21-Nov, and 21-Dec columns.
+
+
+4. **Outlining the required rows:** In this analysis, we will only be making use of the different species of Rice.
+
+
+5. **Renaming the columns:** For easy access during further processing.
+
+6. **Checking the required information:** 
+We use:
+
+**The .dtype function** to ensure that all the columns have the correct data type.
+
+
+**The .info() function** prints information about the dataset. 
+The information contains:
+- The number of columns
+- The column labels
+- The column data types
+- The memory usage
+- The range index
+- The number of cells in each column (non-null values)
+
+
+7. **Null values:** We generated the total number of null values available in each column
+
+
+Using isnull().sum() to generate the total number of nulls in each column and filling these null values with 0
+
+
+We had 0 null values available.
+
+
 # MODULE 2 - STORING THE DATA
 
 
+- The data was stored in an SQL database.
 
-The data was stored in an SQL database.
+
+- The stored data was compared with rice price for Ogun state and Abuja to provide better insight on the difference in prices of rice in Lagos, Ogun and Abuja.
+
+
+**DECEMBER 2020**
+
+![image](https://user-images.githubusercontent.com/98736158/154836754-48ec7126-4785-4821-8f93-ac982997db91.png)
+
+
+- Rice agric sold loose at N439.64 is cheapest in Lagos, compared to Ogun at N486.45 and Abuja at N696.83.
+
+
+- Rice local sold loose at N443.12 is cheaper in Lagos, compared to Abuja at N518.47, but more expensive than Ogun at N420.94.
+
+
+- Rice Medium Grained s at N375 is cheapest in Lagos, compared to Ogun at N456.31 and Abuja at N580.66.
+
+
+- Rice imported high quality sold loose at N539.24 is cheapest in Lagos, compared to Ogun at N550.65 and Abuja at N718.60.
+
+
+**NOVEMBER 2021**
+
+
+![image](https://user-images.githubusercontent.com/98736158/154837059-24fcf565-004a-435d-840a-e0080f472b80.png)
+
+
+- Rice agric sold loose at N509.10 is cheapest in Lagos, compared to Abuja at N581.05 and Ogun at N517.60.
+
+
+- Rice local sold loose at N445.67 is cheaper in Lagos, compared to Abuja at N466.91, but more expensive than Ogun at N390.85.
+
+
+- Rice Medium Grained s at N600.00 is cheaper in Lagos, compared to Abuja at N603.88, but more exppensive in Ogun at N502.23.
+
+
+- Rice imported high quality sold loose at N663.59 is cheaper in Lagos, compared to Abuja at N679.23, but more exppensive in Ogun at N500.69.
+
+
+
+**DECEMBER 2021**
+
+
+![image](https://user-images.githubusercontent.com/98736158/154837460-5db8cbc1-ab0c-4a5f-a24e-e1cb10c04cc6.png)
+
+
+- Rice agric sold loose at N555.81 is cheaper in Lagos, compared to Abuja at N581.4, but more exppensive in Ogun at N523.49.
+
+
+- Rice local sold loose at N503.15 is most expensive in Lagos, compared to Abuja at N467.19 and Ogun at N409.09.
+
+
+- Rice Medium Grained is at N600.00 is cheaper in Lagos, compared to Abuja at N604.24, but more exppensive in Ogun at N493.46.
+
+
+- Rice imported high quality sold loose at N697.66 is most expensive in Lagos, compared to Abuja at N679.64 and Ogun at N469.23.
 
 
 # MODULE 3 - DATA VISUALIZATION
 1. The data was visualized using PowerBi
-
 
 
 ![lagos_rice_prices](https://user-images.githubusercontent.com/98736158/154831998-0469c05f-21d1-4f01-a699-40e6c307e1a4.JPG)
