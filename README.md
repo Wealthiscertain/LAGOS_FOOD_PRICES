@@ -54,11 +54,21 @@ The extracted spreadsheet was converted to .csv from .xlxs, reprocessed and clea
 # MODULE 2 - STORING THE DATA
 
 
+
+The data was stored in an SQL database.
+
+
 # MODULE 3 - DATA VISUALIZATION
 1. The preprocessed data were visualized using PowerBi
 
 
-**The visualized data shows that":**
+
+
+![lagos_rice_prices](https://user-images.githubusercontent.com/98736158/154831470-89daec0f-27e2-4c6d-9675-129a0f2feaa8.JPG)
+
+
+
+**The visualized data shows that:**
 
 
 
