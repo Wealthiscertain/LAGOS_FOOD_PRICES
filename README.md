@@ -61,21 +61,38 @@ The extracted spreadsheet was converted to .csv from .xlxs, reprocessed and clea
 **The visualized data shows that":**
 
 
+
 - At 539.24, Rice imported high quality sold loose had the highest DEC - 2020 and was 43.80% higher than Rice Medium Grained, which had the lowest DEC - 2020 at 375.
-  At 663.59, Rice, imported high quality sold loose had the highest NOV - 2021 and was 48.90% higher than Rice local sold loose, which had the lowest NOV - 2021 at 445.67.
+
+
+
+- At 663.59, Rice, imported high quality sold loose had the highest NOV - 2021 and was 48.90% higher than Rice local sold loose, which had the lowest NOV - 2021 at 445.67.
+
 
 
 - DEC - 2020 and total DEC - 2021 are positively correlated with each other.
-  NOV - 2021 and total DEC - 2021 are positively correlated with each other.﻿﻿
+
+
+
+- NOV - 2021 and total DEC - 2021 are positively correlated with each other.
+
 
 
 - Rice, imported high quality sold loose accounted for 30.01% of DEC - 2020.
-  Rice, imported high quality sold loose accounted for 29.91% of NOV - 2021.﻿﻿
+
+
+
+- Rice, imported high quality sold loose accounted for 29.91% of NOV - 2021.
+
 
 
 - DEC - 2021 and DEC - 2020 diverged the most when the RICE SPECIE was Rice Medium Grained when DEC - 2021 were 225 higher than DEC - 2020.
-  DEC - 2021 and NOV - 2021 diverged the most when the RICE SPECIE was Rice local sold loose when DEC - 2021 were 57.48 higher than NOV - 2021.﻿﻿
 
 
 
-- Across all 4 RICE SPECIE, DEC - 2020 ranged from 375 to 539.24 and DEC - 2021 ranged from 503.15 to 697.66.﻿
+- DEC - 2021 and NOV - 2021 diverged the most when the RICE SPECIE was Rice local sold loose when DEC - 2021 were 57.48 higher than NOV - 2021.
+
+
+
+- Across all 4 RICE SPECIE, DEC - 2020 ranged from 375 to 539.24 and DEC - 2021 ranged from 503.15 to 697.66.
+
