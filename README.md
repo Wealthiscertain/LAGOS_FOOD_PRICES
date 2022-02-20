@@ -93,6 +93,9 @@ We had 0 null values available.
 - The stored data was compared with rice price for Ogun state and Abuja to provide better insight on the difference in prices of rice in Lagos, Ogun and Abuja.
 
 
+- Ogun state is the only neighbouring state to Lagos state and Abuja has the most similar standard of Living to Lagos comapred to the other states in Nigeria.
+
+
 **DECEMBER 2020**
 
 ![image](https://user-images.githubusercontent.com/98736158/154836754-48ec7126-4785-4821-8f93-ac982997db91.png)
