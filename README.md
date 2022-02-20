@@ -63,7 +63,7 @@ The data was stored in an SQL database.
 
 
 
-![lagos_rice_prices](https://user-images.githubusercontent.com/98736158/154831880-63f1beb9-5593-435f-bb98-7cb46b7ef6fa.JPG)
+![lagos_rice_prices](https://user-images.githubusercontent.com/98736158/154831998-0469c05f-21d1-4f01-a699-40e6c307e1a4.JPG)
 
 
 
