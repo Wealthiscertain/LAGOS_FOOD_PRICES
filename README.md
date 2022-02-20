@@ -123,7 +123,11 @@ In December 2021,
 - The price of 1kg of “Rice,imported high quality sold loose” stood at N697.66. This showed an increase of 29.38 percent when compared to N539.24 in December 2020.
 
 
-Rice Medium Grained with a value of 60% recorded the highest increase in price on a Year on year basis
+
+**IN CONCLUSION,**
 
 
-Rice local sold loose with a value of 12.9% recorded the highest increase in price on a Month on month basis
+- Rice Medium Grained with a value of 60% recorded the highest increase in price on a Year on year basis
+
+
+- Rice local sold loose with a value of 12.9% recorded the highest increase in price on a Month on month basis
