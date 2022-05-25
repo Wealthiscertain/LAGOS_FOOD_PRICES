@@ -154,7 +154,8 @@ We had 0 null values available.
 1. The data was visualized using PowerBi
 
 
-![lagos_rice_prices](https://user-images.githubusercontent.com/98736158/154831998-0469c05f-21d1-4f01-a699-40e6c307e1a4.JPG)
+![Lagos rice prices](https://user-images.githubusercontent.com/98736158/170164959-0ad74ba9-e98a-4c93-ba87-64d60b856ba1.png)
+
 
 
 **The visualized data shows that:**
